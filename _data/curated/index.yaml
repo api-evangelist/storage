@@ -462,4 +462,10 @@
   url: https://hitinfrastructure.com/news/how-virtualization-supports-healthcare-data-storage-needs
   domain: hitinfrastructure.com
   image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_160a6178acc:3cc8012:541f3c40
+  item_date: "2017-12-29 22:01:03"
+  title: Ingesting IoT Sensor Data Into S3 With an RPI3
+  url: https://dzone.com/articles/1936021
+  domain: dzone.com
+  image: ""
 ...

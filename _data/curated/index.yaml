@@ -504,4 +504,22 @@
   url: https://medium.com/p/fad0fa75066
   domain: medium.com
   image: ""
+- curated_id: PSNTZO8gXFUe+cpCZyApw0vEKWPT4b14D6teBEocIAE=_16447d01086:314fd21:aa514a55
+  item_date: "2018-06-28 12:03:54"
+  title: SD cards could soon hold 128TB of storage
+  url: https://www.theverge.com/2018/6/28/17514660/sd-card-128tb-storage
+  domain: www.theverge.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_16460fdbb8f:54aa1f5:aa514a55
+  item_date: "2018-07-03 09:07:51"
+  title: File Uploads with Apollo Server 2.0
+  url: https://medium.com/p/5db2f3f60675
+  domain: medium.com
+  image: ""
+- curated_id: AHJDqlO2/3fUkJqj8W614D2ElOgfzZo1CyNFNOPzHfU=_164ed4d3384:283ae42:d6d1c2fb
+  item_date: "2018-07-30 15:13:01"
+  title: "A Developer\u2019s First Look At Filestack"
+  url: https://blog.filestack.com/?p=8055
+  domain: blog.filestack.com
+  image: ""
 ...

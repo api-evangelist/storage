@@ -528,4 +528,16 @@
   url: https://medium.com/p/9aed18cec1ed
   domain: medium.com
   image: ""
+- curated_id: PSNTZO8gXFUe+cpCZyApw0vEKWPT4b14D6teBEocIAE=_16591b4608e:150d36e:b99eedab
+  item_date: "2018-08-31 13:30:39"
+  title: "How to pick the cloud storage service that\u2019s right for you"
+  url: https://www.theverge.com/2018/8/31/17796884/cloud-storage-service-google-drive-apple-icloud-microsoft-onedrive-dropbox-box-amazon
+  domain: www.theverge.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_166b1450a66:115d6f1:2e5c38bc
+  item_date: "2018-10-09 10:40:08"
+  title: Lazy Image Optimiser Using AWS S3 and NodeJs
+  url: https://medium.com/p/80fb38338987
+  domain: medium.com
+  image: ""
 ...
